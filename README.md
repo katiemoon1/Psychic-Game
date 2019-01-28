@@ -1,7 +1,7 @@
 # Psychic-Game
 
 ## Overview:
-A psychic letter guessing game utilizing JavaScript.
+A psychic letter guessing game utilizing JavaScript. View the game here: https://katiemoon1.github.io/Psychic-Game/ 
 
 ## What is the purpose of the Psychic-Game?
 This project is used to demonstrate basic JavaScript skills. 
